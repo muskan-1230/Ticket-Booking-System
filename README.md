@@ -53,8 +53,9 @@ The project emphasizes **backend logic, workflow handling, and data consistency*
 - **Tools:** Postman (for testing logic where applicable)
 
 ---
-```
 ## 📂 Project Structure
+
+```
 src/
 ├── Controllers/ # Handles user interaction via console menu
 ├── Entity/ # Entity classes
