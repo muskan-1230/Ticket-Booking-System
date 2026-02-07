@@ -53,15 +53,14 @@ The project emphasizes **backend logic, workflow handling, and data consistency*
 - **Tools:** Postman (for testing logic where applicable)
 
 ---
-
-## 📂 Project Structure (High Level)
-
+```
+## 📂 Project Structure
 src/
 ├── Controllers/ # Handles user interaction via console menu
 ├── Entity/ # Entity classes
 ├── Repository/ # Database interaction
-└── TicketBookingSystemApplication # main file to run
-
+└── TicketBookingSystemApplication # Main application entry point
+```
 ---
 
 ## 🎯 Learning Outcomes
